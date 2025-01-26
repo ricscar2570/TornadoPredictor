@@ -1,0 +1,9 @@
+
+pandas
+requests
+streamlit
+folium
+streamlit-folium
+scikit-learn
+xgboost
+prometheus-client
