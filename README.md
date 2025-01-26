@@ -1,11 +1,11 @@
-# 🌪️ **TornadoPredictor: Un'Intelligenza Artificiale per Prevedere le Catastrofi Naturali**
+# 🌪️ **TornadoPredictor: un'Intelligenza Artificiale per Prevedere le Catastrofi Naturali**
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.9+-yellow.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Live_Dashboard-brightgreen.svg)](https://streamlit.io/)
 [![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-API-orange.svg)](https://openweathermap.org/)
 
-**TornadoPredictor** è un progetto che sfrutta l'intelligenza artificiale, dati meteorologici live e tecnologie interattive per prevedere, analizzare e visualizzare le trombe d'aria in tempo reale. Nato dalla fusione tra ricerca scientifica e ingegneria software, **TornadoPredictor** rappresenta un passo avanti nella mitigazione dei disastri naturali.
+**TornadoPredictor** è un progetto che sfrutta l'intelligenza artificiale, dati meteorologici live e tecnologie interattive per prevedere, analizzare e visualizzare le trombe d'aria in tempo reale. Una sorta di fusione tra ricerca scientifica e ingegneria software, **TornadoPredictor** rappresenta un passo avanti nella mitigazione dei disastri naturali che diventano ogni anno più distruttivi a causa dei cambiamenti climatici.
 
 ---
 
